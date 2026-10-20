@@ -17,7 +17,7 @@ title: "Year Two Computer Science | University of Makeni"
 tagline: "Academic Resource Hub & Class Portal"
 description: "Official academic learning hub, module notes, lecture timetables, and resource directory for Year Two Computer Science students."
 author: "Department of Computer Science, University of Makeni"
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '' # Empty string for root domain deployments (e.g. Cloudflare, custom domain)
 url: 'https://bahri232.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 

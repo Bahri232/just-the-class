@@ -1,0 +1,10 @@
+{
+  "name": "classwebsite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Year Two Computer Science Learning Hub - University of Makeni",
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "deploy": "wrangler deploy"
+  }
+}
