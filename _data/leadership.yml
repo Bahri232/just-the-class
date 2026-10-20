@@ -1,0 +1,43 @@
+# Class Leadership & Student Representatives Data
+# University of Makeni — Year Two Computer Science
+
+section:
+  heading: "Meet Your Class Representatives"
+  subheading: "Your link to class communication, academic coordination, and student support. Reach out to your representatives for class updates, questions, suggestions, and academic concerns."
+
+representatives:
+  - id: "class-rep"
+    role_type: "primary"
+    badge: "Class Representative"
+    name: "Class Representative" # Placeholder: CLASS_REPRESENTATIVE_NAME
+    title: "Class Representative, Year Two Computer Science"
+    image: "assets/images/leadership/placeholder-rep.svg"
+    image_alt: "Class Representative Portrait"
+    bio: "Dedicated to academic excellence, clear peer-to-peer communication, and supporting Year Two CS students across all modules." # Placeholder: CLASS_REPRESENTATIVE_BIO
+    contact_cta:
+      label: "Contact Class Rep"
+      url: "mailto:classrep.cs@unimak.edu.sl" # Direct link or mailto
+    social:
+      whatsapp: "https://wa.me/" # E.g., https://wa.me/232xxxxxxxxx
+      github: "https://github.com/" # E.g., https://github.com/username
+      facebook: "https://facebook.com/" # E.g., https://facebook.com/username
+      tiktok: "https://tiktok.com/@" # E.g., https://tiktok.com/@username
+      email: "mailto:classrep.cs@unimak.edu.sl" # E.g., mailto:...
+
+  - id: "assistant-rep"
+    role_type: "assistant"
+    badge: "Assistant Class Rep"
+    name: "Halima" # Placeholder: Halima [Surname to be provided]
+    title: "Assistant Class Representative, Year Two Computer Science"
+    image: "assets/images/leadership/placeholder-asst.svg"
+    image_alt: "Assistant Class Representative Portrait"
+    bio: "Assisting in student welfare, module coordination, and bridging communications between students and class executives." # Placeholder: HALIMA_BIO
+    contact_cta:
+      label: "Message Assistant Rep"
+      url: "mailto:assistantrep.cs@unimak.edu.sl"
+    social:
+      whatsapp: "https://wa.me/"
+      github: ""
+      facebook: "https://facebook.com/"
+      tiktok: "https://tiktok.com/@"
+      email: "mailto:assistantrep.cs@unimak.edu.sl"

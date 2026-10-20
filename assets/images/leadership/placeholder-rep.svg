@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="grad-rep" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2545" />
+      <stop offset="100%" stop-color="#134074" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="100" fill="url(#grad-rep)" />
+  <!-- Head & Torso Silhouette -->
+  <circle cx="100" cy="78" r="38" fill="#e0f2fe" opacity="0.9" />
+  <path d="M42 178 C42 135 68 122 100 122 C132 122 158 135 158 178 Z" fill="#e0f2fe" opacity="0.9" />
+  <!-- Rep Badge Icon -->
+  <circle cx="150" cy="50" r="22" fill="#38bdf8" />
+  <path d="M150 36 L154 45 L164 46 L156 53 L159 63 L150 58 L141 63 L144 53 L136 46 L146 45 Z" fill="#0b2545" />
+</svg>
