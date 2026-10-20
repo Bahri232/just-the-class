@@ -1,0 +1,32 @@
+# Class Announcements & Department Notices
+# University of Makeni — Year Two Computer Science
+
+- id: "notice-2026-01"
+  title: "Welcome to Year Two Computer Science (2025/2026)"
+  date: "2026-10-15"
+  category: "Academic"
+  priority: "high"
+  author: "Department of Computer Science"
+  content: "Lectures for the first semester of Year Two have officially commenced. All students are required to complete course registrations, review their lecture halls, and join the module learning groups."
+  action_link: "/modules/"
+  action_label: "View Modules"
+
+- id: "notice-2026-02"
+  title: "Hardware & Software Lab Schedule Finalized"
+  date: "2026-10-18"
+  category: "Lab"
+  priority: "normal"
+  author: "Lab Coordinator"
+  content: "Practical sessions for Object-Oriented Programming (Java) and Data Structures are scheduled in the Main ICT Lab. Please review the environment setup guide to ensure your laptop has JDK 21 installed."
+  action_link: "/resources/"
+  action_label: "Lab Setup Guide"
+
+- id: "notice-2026-03"
+  title: "Year One Past Exam Papers & Lecture Archive Available"
+  date: "2026-10-12"
+  category: "Archive"
+  priority: "normal"
+  author: "Class Academic Committee"
+  content: "The Year One archive containing past examination question papers, tutorial worksheets, and reference slides has been migrated for easy revision and prerequisite study."
+  action_link: "/archive/year-1/"
+  action_label: "Explore Archive"

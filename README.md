@@ -1,11 +1,8 @@
 ---
-layout: home
-title: Just the Class
+layout: default
+title: Repository Documentation
 nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
+permalink: /about-template/
 ---
 
 # Just the Class

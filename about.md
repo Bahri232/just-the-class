@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: >-
-    Course policies and information.
+nav_exclude: true
+description: "Course policies and information."
 ---
 
 # About
