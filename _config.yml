@@ -20,6 +20,7 @@ author: "Department of Computer Science, University of Makeni"
 baseurl: '' # Empty string for root domain deployments (e.g. Cloudflare, custom domain)
 url: 'https://bahri232.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+encoding: utf-8
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.12.0
